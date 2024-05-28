@@ -1,4 +1,4 @@
-# Full Stack Training App
+# User Manager Full Stack
 
 Full Stack Training:
 
